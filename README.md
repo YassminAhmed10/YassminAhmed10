@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Yassmin Ahmed, Junior Biomedical Informatics Student 🎓<br>
+  <br> I'm <strong>Yassmin Ahmed</strong>, Junior Biomedical Informatics Student 🎓<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -33,6 +33,6 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-YassminAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)  
-[![Gmail Badge](https://img.shields.io/badge/-YassminAhmed-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:yourmail@gmail.com)  
-[![GitHub Badge](https://img.shields.io/badge/-YassminAhmed-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourgithub/)](https://github.com/yourgithub/)  
+[![Linkedin Badge](https://img.shields.io/badge/-YassminAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassminahmedln/)](https://www.linkedin.com/in/yassminahmedln/)  
+[![Gmail Badge](https://img.shields.io/badge/-Y.Ahmed2354@nu.edu.eg-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:Y.Ahmed2354@nu.edu.eg)](mailto:Y.Ahmed2354@nu.edu.eg)  
+[![GitHub Badge](https://img.shields.io/badge/-YassminAhmed-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourgithub/)](https://github.com/yourgithub/)
