@@ -1,50 +1,52 @@
-<div align="center" width="50">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Yassmin+Ahmed;Biomedical+Informatics+Student+(Graduation+2027);Passionate+about+AI+%26+Healthcare;Python+%7C+C%2B%2B+%7C+Java)](https://git.io/typing-svg)
 
-<!-- صورة ترحيبية مناسبة -->
-<img src="https://media.giphy.com/media/YJ5OlVLZ2QNl6/giphy.gif" alt="AI Brain" width="60%"/> <br>
-<img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="DNA Tech"  width="40%"/><br> 
+---
 
-<details>
-<p><strong> <summary> 🎧 Busy coding & vibing to : </summary> </strong></p>
+# Hi there 👋, I'm **Yassmin Ahmed**
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
+**Biomedical Informatics Student** | Passionate about **Machine Learning** & **AI in Healthcare**  
+Graduation: **2027** • Nile University
 
-</details>
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YassminAhmed10&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYassminAhmed10&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)  
+## 🛠 Technologies & Tools
 
-[![Linkedin Badge](https://img.shields.io/badge/-YassminAhmed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yassminahmedln) 
-[![GitHub Badge](https://img.shields.io/badge/-YassminAhmed10-black?style=flat&logo=github&logoColor=white)](https://github.com/YassminAhmed10)  
-[![Email Badge](https://img.shields.io/badge/-Y.Ahmed2354@nu.edu.eg-red?style=flat&logo=gmail&logoColor=white)](mailto:Y.Ahmed2354@nu.edu.eg)
+- **Programming Languages:** Python • C++ • Java  
+- **AI / ML / DL:** TensorFlow • Keras • PyTorch  
+- **Data Science:** NumPy • Pandas • Matplotlib • Scikit-learn  
+- **Medical / Bio:** Medical Image Processing • Biosignal Processing • Bioinformatics basics  
+- **Dev Tools:** Git • GitHub • Linux • VSCode
 
-</div>
+---
 
-<hr></hr>
+## 🧩 Projects (high level)
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+- **Diabetic Retinopathy Detection** — fundus-image classification using EfficientNet / ResNet / DenseNet.  
+- **Pharmacy Management System** — Java Swing GUI for ordering and inventory management.  
+- **Biosignal Processing** — ECG / EEG preprocessing and feature extraction pipelines.
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=flat&logo=matplotlib&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+*(Put links to each project repository below once you create them — e.g. `[Diabetic Retinopathy](https://github.com/YassminAhmed10/diabetic-retinopathy)` )*
 
-```dart
-// tools_I_use organized
+---
 
-class About extends Me { 
-  const myTools = {  
-    "ProgrammingLanguages" : { "Python", "Java", "C++" },
-    "AI & ML" : { "TensorFlow", "Keras", "PyTorch" },
-    "DataScience" : { "Pandas", "NumPy", "Matplotlib" },
-    "Platforms" : { "Linux", "Windows" },
-    "OtherTools" : { "Git" }
-  };
-}
+## 📈 GitHub Stats
+
+![Yassmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassminAhmed10&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YassminAhmed10&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/yassminahmedln  
+- GitHub: https://github.com/YassminAhmed10  
+- Email: Y.Ahmed2354@nu.edu.eg
+
+---
+
+## 🎯 Objective
+
+I aim to combine **medical knowledge** with **computational methods** to build robust AI tools that help early detection and decision support in healthcare. Actively seeking collaborations and research opportunities in medical imaging and biosignal analysis.
+
+---
+
