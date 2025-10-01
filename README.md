@@ -35,4 +35,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-YassminAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassminahmedln/)](https://www.linkedin.com/in/yassminahmedln/)  
 [![Gmail Badge](https://img.shields.io/badge/-Y.Ahmed2354@nu.edu.eg-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:Y.Ahmed2354@nu.edu.eg)](mailto:Y.Ahmed2354@nu.edu.eg)  
-[![GitHub Badge](https://img.shields.io/badge/-YassminAhmed-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourgithub/)](https://github.com/yourgithub/)
+[![GitHub Badge](https://img.shields.io/badge/-YassminAhmed-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/YassminAhmed10)](https://github.com/YassminAhmed10)
