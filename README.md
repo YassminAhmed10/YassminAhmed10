@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Yassmin+Ahmed;Biomedical+Informatics+Student+(Graduation+2027);Passionate+about+AI+%26+Healthcare;Python+%7C+C%2B%2B+%7C+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Yassmin+Ahmed+%7C+C%2B%2B+%7C+Java)](https://git.io/typing-svg)
 
 ---
-
-# Hi there 👋, I'm **Yassmin Ahmed**
 
 **Biomedical Informatics Student** | Passionate about **Machine Learning** & **AI in Healthcare**  
 Graduation: **2027** • Nile University
